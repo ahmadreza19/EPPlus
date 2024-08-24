@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Backup\\Desktop\\TestEpPlus\\Test_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40577EF6-A32A-4150-B4D4-9F4FD5678DCB}|Test_Project\\Test_Project.csproj|d:\\backup\\desktop\\testepplus\\test_project\\test_project\\models\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40577EF6-A32A-4150-B4D4-9F4FD5678DCB}|Test_Project\\Test_Project.csproj|solutionrelative:test_project\\models\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40577EF6-A32A-4150-B4D4-9F4FD5678DCB}|Test_Project\\Test_Project.csproj|d:\\backup\\desktop\\testepplus\\test_project\\test_project\\views\\data\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40577EF6-A32A-4150-B4D4-9F4FD5678DCB}|Test_Project\\Test_Project.csproj|solutionrelative:test_project\\views\\data\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40577EF6-A32A-4150-B4D4-9F4FD5678DCB}|Test_Project\\Test_Project.csproj|d:\\backup\\desktop\\testepplus\\test_project\\test_project\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40577EF6-A32A-4150-B4D4-9F4FD5678DCB}|Test_Project\\Test_Project.csproj|solutionrelative:test_project\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40577EF6-A32A-4150-B4D4-9F4FD5678DCB}|Test_Project\\Test_Project.csproj|d:\\backup\\desktop\\testepplus\\test_project\\test_project\\models\\excelimportjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40577EF6-A32A-4150-B4D4-9F4FD5678DCB}|Test_Project\\Test_Project.csproj|solutionrelative:test_project\\models\\excelimportjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40577EF6-A32A-4150-B4D4-9F4FD5678DCB}|Test_Project\\Test_Project.csproj|d:\\backup\\desktop\\testepplus\\test_project\\test_project\\models\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40577EF6-A32A-4150-B4D4-9F4FD5678DCB}|Test_Project\\Test_Project.csproj|solutionrelative:test_project\\models\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40577EF6-A32A-4150-B4D4-9F4FD5678DCB}|Test_Project\\Test_Project.csproj|d:\\backup\\desktop\\testepplus\\test_project\\test_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40577EF6-A32A-4150-B4D4-9F4FD5678DCB}|Test_Project\\Test_Project.csproj|solutionrelative:test_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40577EF6-A32A-4150-B4D4-9F4FD5678DCB}|Test_Project\\Test_Project.csproj|d:\\backup\\desktop\\testepplus\\test_project\\test_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{40577EF6-A32A-4150-B4D4-9F4FD5678DCB}|Test_Project\\Test_Project.csproj|solutionrelative:test_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40577EF6-A32A-4150-B4D4-9F4FD5678DCB}|Test_Project\\Test_Project.csproj|d:\\backup\\desktop\\testepplus\\test_project\\test_project\\migrations\\20240518135235_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40577EF6-A32A-4150-B4D4-9F4FD5678DCB}|Test_Project\\Test_Project.csproj|solutionrelative:test_project\\migrations\\20240518135235_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "D:\\Backup\\Desktop\\TestEpPlus\\Test_Project\\Test_Project\\Models\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Test_Project\\Models\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "D:\\Backup\\Desktop\\TestEpPlus\\Test_Project\\Test_Project\\Models\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "Test_Project\\Models\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T17:51:15.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExcelImportJob.cs",
+              "DocumentMoniker": "D:\\Backup\\Desktop\\TestEpPlus\\Test_Project\\Test_Project\\Models\\ExcelImportJob.cs",
+              "RelativeDocumentMoniker": "Test_Project\\Models\\ExcelImportJob.cs",
+              "ToolTip": "D:\\Backup\\Desktop\\TestEpPlus\\Test_Project\\Test_Project\\Models\\ExcelImportJob.cs",
+              "RelativeToolTip": "Test_Project\\Models\\ExcelImportJob.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAE4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T07:15:27.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Backup\\Desktop\\TestEpPlus\\Test_Project\\Test_Project\\Program.cs",
+              "RelativeDocumentMoniker": "Test_Project\\Program.cs",
+              "ToolTip": "D:\\Backup\\Desktop\\TestEpPlus\\Test_Project\\Test_Project\\Program.cs",
+              "RelativeToolTip": "Test_Project\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T06:03:39.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Backup\\Desktop\\TestEpPlus\\Test_Project\\Test_Project\\Views\\Data\\Index.cshtml",
+              "RelativeDocumentMoniker": "Test_Project\\Views\\Data\\Index.cshtml",
+              "ToolTip": "D:\\Backup\\Desktop\\TestEpPlus\\Test_Project\\Test_Project\\Views\\Data\\Index.cshtml",
+              "RelativeToolTip": "Test_Project\\Views\\Data\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T13:44:14.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "D:\\Backup\\Desktop\\TestEpPlus\\Test_Project\\Test_Project\\Controllers\\DataController.cs",
+              "RelativeDocumentMoniker": "Test_Project\\Controllers\\DataController.cs",
+              "ToolTip": "D:\\Backup\\Desktop\\TestEpPlus\\Test_Project\\Test_Project\\Controllers\\DataController.cs",
+              "RelativeToolTip": "Test_Project\\Controllers\\DataController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAD0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T13:40:17.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataModel.cs",
+              "DocumentMoniker": "D:\\Backup\\Desktop\\TestEpPlus\\Test_Project\\Test_Project\\Models\\DataModel.cs",
+              "RelativeDocumentMoniker": "Test_Project\\Models\\DataModel.cs",
+              "ToolTip": "D:\\Backup\\Desktop\\TestEpPlus\\Test_Project\\Test_Project\\Models\\DataModel.cs",
+              "RelativeToolTip": "Test_Project\\Models\\DataModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T13:13:06.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240518135235_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Backup\\Desktop\\TestEpPlus\\Test_Project\\Test_Project\\Migrations\\20240518135235_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Test_Project\\Migrations\\20240518135235_InitialCreate.cs",
+              "ToolTip": "D:\\Backup\\Desktop\\TestEpPlus\\Test_Project\\Test_Project\\Migrations\\20240518135235_InitialCreate.cs",
+              "RelativeToolTip": "Test_Project\\Migrations\\20240518135235_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T13:52:35.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Backup\\Desktop\\TestEpPlus\\Test_Project\\Test_Project\\appsettings.json",
+              "RelativeDocumentMoniker": "Test_Project\\appsettings.json",
+              "ToolTip": "D:\\Backup\\Desktop\\TestEpPlus\\Test_Project\\Test_Project\\appsettings.json",
+              "RelativeToolTip": "Test_Project\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-18T13:35:53.646Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

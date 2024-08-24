@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Test_Project.Models.DataModel>
+
+@{
+    ViewData["Title"] = "Data List";
+}
+
+<h1>Data List</h1>
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Column1</th>
+            <th>Column2</th>
+            <!-- سایر ستون‌ها بر اساس ساختار اکسل شما -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Column1</td>
+                <td>@item.Column2</td>
+                <!-- سایر ستون‌ها بر اساس ساختار اکسل شما -->
+            </tr>
+        }
+    </tbody>
+</table>
